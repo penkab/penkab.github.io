@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	background: url("girltypingonlaptop.jpg"); 
-	background-size: 100px 70px;
+	background-size: 100% 70%;
 	background-repeat: no-repeat;
 	color: #000000;
 	font-family: Helvetica;
@@ -10,14 +10,12 @@ body {
 h1 {font-family: Helvetica;
 	font-weight: normal;
 	text-transform: uppercase;
+	font-size: 24px
 }
 
-h1 {
-	font-size: 24px;
-}
 
 p {
-	font-family: Helvetica, monospace;
+	font-family: Helvetica;
 }
 
 a {
