@@ -41,6 +41,7 @@ h2 {
 	font-weight: : normal;
 	font-size: 25px;
 	font-family: helvetica;
+	position: absolute;
 }
 
 p {
