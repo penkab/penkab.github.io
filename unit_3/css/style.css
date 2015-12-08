@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	background: url("Girltypingonlaptop.jpg"); 
+	background-size: cover;
 	color: #000000;
 	font-family: Helvetica;
 }
