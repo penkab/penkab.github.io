@@ -13,9 +13,15 @@ li{
 	
 }
 
-head {
+div{
+	height: 400px
+	background-size: cover;
+}
+
+body {
 	background: url("Girltypingonlaptop.jpg"); 
 	background-size: cover;
+	background-position: center;
 	color: #000000;
 	
 }
