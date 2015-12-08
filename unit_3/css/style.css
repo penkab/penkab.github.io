@@ -1,3 +1,6 @@
+head{text-align: left;
+}
+
 
 ul {
 	padding: 10px;
@@ -6,8 +9,8 @@ ul {
 	font-weight: bold;
 	color: white;
 	font-size: 20px;
-	text-align: left;
-}
+	
+	}
 
 a{
 	color: white;
