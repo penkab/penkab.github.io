@@ -8,8 +8,8 @@ ul {
 }
 
 li{
-	display: left;
-	padding: 0px 10px 0px 10px;
+	display: inline;
+	padding: 10px 10px 10px 10px;
 	
 }
 
