@@ -1,5 +1,17 @@
+ul {
+	padding: 10px;
+	background: black;
+	font-family: helvetica;
+	font-weight: normal;
+	color: white;
+}
+
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
 body {
-	text-align: center;
 	background: url("Girltypingonlaptop.jpg"); 
 	background-size: cover;
 	background-position: center;
@@ -8,19 +20,27 @@ body {
 }
 
 h1 {
+	text-align: center;
 	font-weight: normal;
 	text-transform: uppercase;
 	font-size: 40px;
 }
 
 h2 {
+	text-align: center;
 	font-weight: : normal;
 	font-size: 25px;
 }
 
 p {
+	text-align: center;
 	font-weight: normal;
 	font-size: 16px;
 	border: 0;
 	padding: 10px;
+}
+a {
+	text-align: center;
+	font-style: italic;
+	text-decoration: none;
 }
