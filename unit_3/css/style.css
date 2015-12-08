@@ -4,10 +4,11 @@ ul {
 	font-family: helvetica;
 	font-weight: bold;
 	color: white;
+	font-size: 20px;
 }
 
 li{
-	display: inline;
+	display: left;
 	padding: 0px 10px 0px 10px;
 	
 }
