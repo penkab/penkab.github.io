@@ -21,8 +21,12 @@ li{
 }
 article {
 	max-width: 500px;
-	padding: 20px;
+	padding: 10px;
 	margin: 0 auto;
+}
+
+a {text-decoration: none;
+
 }
 @media (max-width: 500px) {
 	body {
