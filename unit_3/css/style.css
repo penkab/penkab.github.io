@@ -4,31 +4,26 @@ header {
 	background-size: cover;
 	color: white;
 }
-
 a{
 	color: white;
+	text-decoration: none;
 }
-
 h1 {
 	font-size: 70px
 }
-
 ul{
 	padding: 10px;
 	background: black;
 }
-
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px
 }
-
 article {
 	max-width: 500px;
 	padding: 20px;
 	margin: 0 auto;
 }
-
 @media (max-width: 500px) {
 	body {
 		background: red;
