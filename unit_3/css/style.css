@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald);
+
 
 body {
 	text-align: center;
@@ -9,6 +9,7 @@ body {
 a{
 	color: white;
 	text-decoration: none;
+	@import url(https://fonts.googleapis.com/css?family=Oswald);
 }
 h1 {
 	font-size: 70px
