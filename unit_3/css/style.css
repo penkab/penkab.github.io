@@ -1,38 +1,72 @@
+#top, #bottom, #left, #right {
+	background: #a5ebff;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
 
 
-body {
+h1{
+	color: black
+	font-family: Century;
 	text-align: center;
-	background: url(Girltypingonlaptop.jpg);
-	background-size: cover;
-	color: white;
+	font-size: 55pt;
+	text-transform: uppercase;
 }
+
 a{
-	color: white;
 	text-decoration: none;
-	@import url(https://fonts.googleapis.com/css?family=Oswald);
+	color: green;
 }
-h1 {
-	font-size: 70px
+
+hr{
+	size: 10;
+	width: 80%;
+	color: green;
 }
+
 ul{
 	padding: 10px;
-	background: black;
 }
+
 li{
 	display: inline;
-	padding: 0px 10px 0px 10px
-}
-article {
-	max-width: 500px;
-	padding: 10px;
-	margin: 0 auto;
 }
 
-a {text-decoration: none;
+img{
+	width: 600;
+	height: 400;
+}
 
+h2{
+	color: black
+	font-family: Century;
+	text-align: center;
+	font-size: 40pt;
 }
-@media (max-width: 500px) {
-	body {
-		background: red;
-	}
+
+h3{
+	color: black
+	font-family: Century;
+	text-align: center;
+	font-size: 35pt;
 }
+
+p{
+	color: black
+	font-family: Century;
+	text-align: center;
+	font-size: 25pt;
+}
+
