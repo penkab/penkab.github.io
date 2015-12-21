@@ -1,13 +1,14 @@
 body{
 	color: black;
 	text-align: center;
-	
+	font-family: Century gothic;
+
 }
 
 
 h1{
 	color: black
-	font-family: Verdana;
+	font-family: Century gothic;
 	text-align: center;
 	font-size: 55pt;
 	text-transform: uppercase;
@@ -29,7 +30,8 @@ ul{
 }
 
 li{
-	display: center;
+	display: inline;
+	padding: 0px 10px 0px 10px;
 }
 
 img{
@@ -39,21 +41,21 @@ img{
 
 h2{
 	color: black
-	font-family: Century;
+	font-family: Century gothic;
 	text-align: center;
 	font-size: 40pt;
 }
 
 h3{
 	color: black
-	font-family: Century;
+	font-family: Century gothic;
 	text-align: center;
 	font-size: 35pt;
 }
 
 p{
 	color: black
-	font-family: Century;
+	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
 }
