@@ -86,6 +86,8 @@ article {
 }
 
 footer {
+	text-align: center;
+	padding: 1em 0;
 	background-color: #FF957E
 	border: 1px black solid;
 	padding: 20px;
