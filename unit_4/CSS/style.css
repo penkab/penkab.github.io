@@ -10,17 +10,7 @@ nav {
     padding: 20px;
 }
 
-main {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
 
-section {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
 footer {
 	background-color: #FF957E;
     border: 1px black solid;
@@ -28,7 +18,7 @@ footer {
 }
 
 h1{
-	color: black
+	color: black;
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 55pt;
@@ -56,27 +46,39 @@ img{
 }
 
 h2{
-	color: black
+	color: black;
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 40pt;
 }
 
 h3{
-	color: black
+	color: black;
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
 }
 
 p{
-	color: black
+	color: black;
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
 }
 
-.wrapper {
+#wrapper {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#one {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#description {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
