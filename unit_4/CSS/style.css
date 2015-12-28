@@ -34,58 +34,9 @@ footer {
     padding: 20px;
 }
 
-h1{
-	color: black
-	font-family: Century gothic;
-	text-align: center;
-	font-size: 55pt;
-	text-transform: uppercase;
-}
 
-a{
-	text-decoration: none;
-	color: green;
-	font-size: 25pt;
+.wrapper {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
-
-hr{
-	size: 10;
-	width: 100%;
-	color: green;
-}
-
-ul{
-	padding: 10px;
-}
-
-li{
-	display: inline;
-	padding: 0px 10px 0px 10px;
-}
-
-img{
-	width: 400;
-	height: 200;
-}
-
-h2{
-	color: black
-	font-family: Century gothic;
-	text-align: center;
-	font-size: 40pt;
-}
-
-h3{
-	color: black
-	font-family: Century gothic;
-	text-align: center;
-	font-size: 25pt;
-}
-
-p{
-	color: black
-	font-family: Century gothic;
-	text-align: center;
-	font-size: 25pt;
-}
-
