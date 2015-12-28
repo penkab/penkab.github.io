@@ -1,35 +1,35 @@
 header{
-	background-color: #FFED74;
+	background-color: #ffEd74;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 nav{
-	background-color: #E8C66A;
+	background-color: #e8c66a;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 aside{
-	background-color: #FFC675;
+	background-color: #ffc675;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 article{
-	background-color: #E89C6C;
+	background-color: #e89c6c;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 footer{
-	background-color: #FF957E;
+	background-color: #ff957e;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 div{
-	background-color: #FFE2B8;
+	background-color: #ffe2b8;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -37,12 +37,12 @@ div{
 body{
 	color: black;
 	text-align: center;
-	font-family: Century gothic;
+	font-family: century gothic;
 
 }
 h1{
 	color: black;
-	font-family: Century gothic;
+	font-family: century gothic;
 	text-align: center;
 	font-size: 40px;
 	text-transform: uppercase;
@@ -53,22 +53,12 @@ li{
 }
 p{
 	color: black;
-	font-family: Century gothic;
+	font-family: century gothic;
 	text-align: center;
 	font-size: 15px;
 }
 #wrapper{
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-#one{
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-#me {
-	background-color: #FFC675;
+	background-color: #ffe2b8;
 	border: 1px black solid;
 	padding: 20px;
 }
