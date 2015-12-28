@@ -1,24 +1,13 @@
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
+body{
+	color: black;
+	text-align: center;
+	font-family: Century gothic;
+
 }
 
-nav {
-	background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-
-footer {
-	background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 h1{
-	color: black;
+	color: black
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 55pt;
@@ -31,6 +20,12 @@ a{
 	font-size: 25pt;
 }
 
+hr{
+	size: 10;
+	width: 100%;
+	color: green;
+}
+
 ul{
 	padding: 10px;
 }
@@ -41,45 +36,28 @@ li{
 }
 
 img{
-	width: 500;
-	height: 300;
+	width: 600;
+	height: 400;
 }
 
 h2{
-	color: black;
+	color: black
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 40pt;
 }
 
 h3{
-	color: black;
+	color: black
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
 }
 
 p{
-	color: black;
+	color: black
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
 }
 
-#wrapper {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#one {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#description {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
