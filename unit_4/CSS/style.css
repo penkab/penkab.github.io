@@ -28,7 +28,7 @@ footer {
 	padding: 20px;
 }
 
-div {
+div{
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
@@ -40,42 +40,33 @@ body{
 	font-family: Century gothic;
 
 }
-
-
 h1{
 	color: black;
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 55pt;
+	font-size: 40px;
 	text-transform: uppercase;
 }
-
-
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
 }
-
-
 p{
 	color: black;
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 25pt;
+	font-size: 15px;
 }
-
-#wrapper {
+#wrapper{
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
-
-#one {
+#one{
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
-
 #me {
 	background-color: #FFC675;
 	border: 1px black solid;
