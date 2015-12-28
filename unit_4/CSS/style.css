@@ -23,14 +23,13 @@ main {
     padding: 20px;
 }
 
-footer {
-	background-color: #FF957E;
+section {
+	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
-
-section {
-	background-color: #FFE2B8;
+footer {
+	background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }
