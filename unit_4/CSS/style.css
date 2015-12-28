@@ -1,28 +1,28 @@
-header {
+header{
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-nav {
+nav{
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-aside {
+aside{
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-article {
+article{
 	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-footer {
+footer{
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
