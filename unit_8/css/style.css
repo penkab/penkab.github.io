@@ -89,6 +89,10 @@ img {
     width: 230px;
   }
 
+ p {
+    margin: 1.8em .6em 0;
+  }
+  
    li {
     width: 80%;
     outline-width: .5em;
