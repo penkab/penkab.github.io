@@ -1,0 +1,114 @@
+header{
+  background-color: #ffEd74;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+body{
+	color: black;
+	text-align: center;
+	font-family: Century gothic;
+
+}
+
+
+h1{
+	color: black
+	font-family: Century gothic;
+	text-align: center;
+	font-size: 4.6em;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+	color: green;
+	font-size: 2em;
+}
+
+hr{
+	size: 10;
+	width: 100%;
+	color: green;
+}
+
+ul{
+	padding: 10px;
+}
+
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  width: 480px;
+}
+
+h2{
+	color: black
+	font-family: Century gothic;
+	text-align: center;
+	font-size: 3.5em;
+}
+
+h3{
+	color: black
+	font-family: Century gothic;
+	text-align: center;
+	font-size: 2em;
+}
+
+p{
+	color: black
+	font-family: Century gothic;
+	text-align: center;
+	font-size: 2em;
+}
+
+@media (max-width: 800px) {
+  nav {
+    float: none;
+  }
+
+  nav a {
+    margin: 0 1.6em .75em 0;
+  }
+
+  img {
+    width: 320px;
+  }
+
+  @media only screen and (max-width: 480px) {
+  h1, nav {
+    display: block;
+    text-align: center;
+  }
+    nav a {
+    margin: 0 1em 1em;
+  }
+}
+img {
+    width: 230px;
+  }
+
+   p, ul {
+    margin: 1.8em .6em 0;
+  }
+ 
+   li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+  }
+li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+    height: 2em;
+    line-height: 2em;
+  }
+}
