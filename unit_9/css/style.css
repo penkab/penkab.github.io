@@ -2,25 +2,27 @@ body{
 	color: black;
 	text-align: center;
 	font-family: Century gothic;
+
 }
+
 
 h1{
 	color: black
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 55pt;
+	font-size: 4.6em;
 	text-transform: uppercase;
 }
 
 a{
 	text-decoration: none;
 	color: green;
-	font-size: 25pt;
+	font-size: 2em;
 }
 
 hr{
 	size: 10;
-	width: 500px;
+	width: 100%;
 	color: green;
 }
 
@@ -33,43 +35,38 @@ li{
 	padding: 0px 10px 0px 10px;
 }
 
-img{
-	display: block;
-    height: 400;
-    width: 600;
-   }
+img {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  width: 480px;
+}
 
 h2{
 	color: black
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 40pt;
+	font-size: 3.5em;
 }
 
 h3{
 	color: black
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 25pt;
+	font-size: 2em;
 }
 
 p{
 	color: black
 	font-family: Century gothic;
 	text-align: center;
-	font-size: 25pt;
+	font-size: 2em;
 }
 
 #wrapper{
-	border: 1px black solid;
-	padding: 20px;
+  border: 1px black solid;
+  padding: 20px;
 }
-
-#text{
-	width: 600;
-	margin-left: auto;
-	margin-right: auto;
-}	
 
 @media (max-width: 800px) {
   nav {
