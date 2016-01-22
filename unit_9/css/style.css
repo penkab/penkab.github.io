@@ -36,8 +36,8 @@ li{
 }
 
 img{
-	width: 600;
-	height: 400;
+	width: 800;
+	height: 600;
 }
 
 h2{
@@ -60,12 +60,6 @@ p{
 	text-align: center;
 	font-size: 25pt;
 }
-
-#wrapper {
-	display: block;
-	text-align: center;
-	width: 600;
-	}
 
 
 @media (max-width: 800px) {
