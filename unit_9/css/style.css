@@ -61,6 +61,10 @@ p{
 	font-size: 25pt;
 }
 
+#about {
+	width: 50%;
+	display: inline-block;
+}
 
 @media (max-width: 800px) {
   nav {
