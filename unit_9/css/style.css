@@ -2,9 +2,7 @@ body{
 	color: black;
 	text-align: center;
 	font-family: Century gothic;
-
 }
-
 
 h1{
 	color: black
@@ -36,8 +34,11 @@ li{
 }
 
 img{
-	width: 550px;
-	}
+	display: block;
+    margin: 0 auto;
+    height: 400;
+    width: 600;
+}
 
 h2{
 	color: black
