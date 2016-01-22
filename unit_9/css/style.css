@@ -60,11 +60,16 @@ p{
 	font-size: 25pt;
 }
 
-.wrapper{
+#wrapper{
 	border: 1px black solid;
 	padding: 20px;
 }
 
+#text{
+	width: 600;
+	margin-left: auto;
+	margin-right: auto;
+}	
 
 @media (max-width: 800px) {
   nav {
