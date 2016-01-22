@@ -68,14 +68,13 @@ p{
 }
 
 .img-with-text {
-	text-align: justify;
+	float: right;
+	text-align: right;
 	width: 600;
-}
-
-.img-with-text {
 	display: block;
 	margin: 0 auto;
 }
+
 
 @media (max-width: 800px) {
   nav {
