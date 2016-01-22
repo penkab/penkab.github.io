@@ -62,7 +62,7 @@ p{
 	font-size: 25pt;
 }
 
-#wrapper{
+.wrapper{
 	border: 1px black solid;
 	padding: 20px;
 }
