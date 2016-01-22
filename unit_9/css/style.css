@@ -38,6 +38,7 @@ img{
     margin: 0 auto;
     height: 400;
     width: 600;
+    vertical-align: text-top;
 }
 
 h2{
