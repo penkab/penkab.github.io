@@ -35,10 +35,10 @@ li{
 
 img{
 	display: block;
-    margin: 0 auto;
     height: 400;
     width: 600;
-    vertical-align: text-top;
+    margin-left:auto;
+	margin-right:auto;;
 }
 
 h2{
