@@ -59,12 +59,12 @@ p{
 	font-family: Century gothic;
 	text-align: center;
 	font-size: 25pt;
-	width: 600;
 }
 
 #wrapper {
-	border: 1px black solid;
-	padding: 20px;
+	display: block;
+	text-align: center;
+	width: 600;
 	}
 
 
