@@ -22,7 +22,7 @@ a{
 
 hr{
 	size: 20px;
-	width: 200px;
+	width: 400px;
 	color: green;
 }
 
@@ -64,12 +64,6 @@ p{
 #wrapper {
 	border: 1px black solid;
 	padding: 20px;
-	}
-
-#text-align: center {
-	text-align: center;
-	width: 600;
-
 	}
 
 
