@@ -67,6 +67,16 @@ p{
 	padding: 20px;
 }
 
+.img-with-text {
+	text-align: justify;
+	width: 600;
+}
+
+.img-with-text {
+	display: block;
+	margin: 0 auto;
+}
+
 @media (max-width: 800px) {
   nav {
     float: none;
