@@ -66,6 +66,12 @@ p{
 	padding: 20px;
 	}
 
+#text-align: center {
+	text-align: center;
+	width: 600;
+
+	}
+
 
 @media (max-width: 800px) {
   nav {
