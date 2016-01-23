@@ -56,7 +56,7 @@ p{
 .line {
 	width: 50%;
 	padding-bottom: 50px;
-	border-bottom: 1px solid black;
+	border-bottom: 1px black;
 }
 
 @media (max-width: 800px) {
