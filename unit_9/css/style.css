@@ -2,8 +2,7 @@ body{
 	color: black;
 	text-align: center;
 	font-family: Century gothic;
-	border: 1px solid black;
-}
+	}
 
 
 h1{
@@ -61,8 +60,8 @@ p{
 }
 
 .line {
-	width: 100%;
-	padding-bottom: 50px;
+	width: 50%;
+	padding-bottom: 35px;
 	border-bottom: 1px solid black;
 }
 
