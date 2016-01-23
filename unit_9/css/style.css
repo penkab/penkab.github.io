@@ -2,7 +2,7 @@ body{
 	color: black;
 	text-align: center;
 	font-family: Century gothic;
-
+	border: 1px solid red ;
 }
 
 
@@ -61,14 +61,11 @@ p{
 	font-size: 25pt;
 }
 
-#wrapper {
-	text-align: center;
-	width: 600;
-	display: block;
-	margin: 0 auto;
+.line {
+	width: 100%;
+	padding-bottom: 100px;
+	border-bottom: 1px solid black;
 }
-
-
 
 @media (max-width: 800px) {
   nav {
