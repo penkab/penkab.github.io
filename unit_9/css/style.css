@@ -54,10 +54,9 @@ p{
 }
 
 .line {
-	width: 50%;
+	width: 100%;
 	padding-bottom: 50px;
 	border-bottom: 1px solid black;
-	align: center;
 }
 
 @media (max-width: 800px) {
