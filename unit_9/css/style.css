@@ -2,7 +2,7 @@ body{
 	color: black;
 	text-align: center;
 	font-family: Century gothic;
-	border: 1px solid red ;
+	border: 1px solid black;
 }
 
 
@@ -63,7 +63,7 @@ p{
 
 .line {
 	width: 100%;
-	padding-bottom: 100px;
+	padding-bottom: 50px;
 	border-bottom: 1px solid black;
 }
 
