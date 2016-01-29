@@ -1,9 +1,12 @@
   body {
   text-align: center;
-    background: url("photo.jpg");
-    background-size: cover;
     color: #fff;
     font-family: Helvetica;
+}
+
+img {
+	background: url("photo.jpg");
+    background-size: cover;
 }
 
 h1 {
